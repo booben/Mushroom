@@ -1,0 +1,1 @@
+﻿public delegate void OnEatingIteration(int index, bool final);
